@@ -1,4 +1,4 @@
-# 🙂RAG chat app with Azure OpenAI and Azure AI Search (Python)
+# 🌊AZURE Search OPEN AI - DEMO
 
 #  A Microsoft initiative - 
 # Implemented by Edunet Foundation - In collaboration with - All India Council for Technical Education 
